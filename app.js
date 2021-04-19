@@ -131,3 +131,74 @@
 // if(answer>10){
 //     alert("OMG! Today's weather is so cold")
 // }
+
+// chapter 12
+
+// var a = "Madina786"
+// var answer = prompt("Enter Your Password")
+// if(answer !== "Madina786"){
+//     alert("Enter Your Password")
+// }
+// else if (answer === "Madina786"){
+//     alert("Passwrod Is Matched")
+// }
+
+// var hour = 13
+// var answer = prompt("Enter Hour")
+// if (answer < 18){
+//     alert("Good Day")
+// }
+// else{
+//     alert("Good Evening")
+// }
+
+// var time = 1900
+// var answer = prompt("Enter Time In 24 hour format")
+// if(answer >=0000 && answer < 1200){
+//     alert("Good Morning")
+// }
+// else if(answer >=1200 && answer < 1700){
+//     alert("Good Afternoon")
+// }
+// else if(answer >=1700 && answer < 2100){
+//     alert("Good Evening")
+// }
+// else if(answer >=2100 && answer < 2359){
+//     alert("Good Night")
+// }
+
+// var a = 0
+// var answer = prompt("Enter Number")
+// if(answer > 1){
+//     alert("Input number is positve")
+// }
+// else if (answer < 0){
+//     alert("input number is ngative")
+// }
+// else {
+//     alert("number is zero")
+// }
+
+// var vowel = 'a'
+// var vowel2 = 'e'
+// var vowel3 = 'i'
+// var vowel4 = 'o'
+// var vowel5 = 'u'
+// var answer = prompt("enter alphabet")
+// if (answer === 'a'){
+//     alert('Alphabet is vowel')
+// }
+// if (answer === 'e'){
+//     alert('Alphabet is vowel')
+// }
+// if (answer === 'i'){
+//     alert('Alphabet is vowel')
+// }
+// if (answer === 'o'){
+//     alert('Alphabet is vowel')
+// }
+// if (answer === 'u'){
+//     alert('Alphabet is vowel')
+// }else {
+//     alert("not vowel")
+// }
